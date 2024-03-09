@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Gonzalo Cruz
 
-<!--
-**purplemanta6754/purplemanta6754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 👀 I'm interested in creating efficient and competent solutions, as well as useful open source tools.
+- 💞️ I'm looking to collaborate in ambitious projects.
+- 📫 How to contact me: [prplmanta@gmail.com](mailto:prplmanta@gmail.com)
 
-Here are some ideas to get you started:
+## My Projects
+_TBA_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Tools
+- Languages: [...]
+- Tools: [...]
+- Frameworks: [...]
+
+## GitHub Statistics
+_TBA_
