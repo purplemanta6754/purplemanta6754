@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Gonzalo+Cruz;I'm+a+Computer+Enginering+student" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&pause=2000&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Gonzalo+Cruz;I'm+a+Computer+Enginering+student"/>
 </p>
 
 - 🔭 I’m currently working on Y.A.L. (YetAnotherLink)
