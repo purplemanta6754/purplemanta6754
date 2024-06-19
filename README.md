@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow <Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -25,6 +25,7 @@
 
 <h2> <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> Github Stats </h2>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=94023073" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94023073&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -38,7 +39,6 @@
     <img alt="@purplemanta6754's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=94023073&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro" height="150">
