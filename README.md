@@ -6,8 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Gonzalo+Cruz;I'm+a+Computer+Enginering+student"/>
 </p>
 
-- 👾 I’m currently working on [Parásitos Invasores](https://github.com/purplemanta6754/Parasitos-Invasores)
-- 🌱 I’m currently learning Python 🐍
+- 🤷‍♂️ I'm not currently working on anything important
+- 🌱 I’m currently learning Java 🍵
 - 👯 I’m looking to collaborate on FOSS projects
 - 💬 Ask me about Web dev related Stuff
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prplmanta@gmail.com)](mailto:prplmanta@gmail.com)
