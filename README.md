@@ -1,32 +1,36 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# Hello, Fellow Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Gonzalo+Cruz;I'm+a+Computer+Enginering+student"/>
-</p>
+I'm Gonzalo (but feel free to call me Zalo), a Computer Science student at Santo Tomás Institute in Santiago Centro, Chile. I'm passionate about imagining innovative solutions and contributing to the open-source community.
 
-- 🤷‍♂️ I'm not currently working on anything important
-- 🌱 I’m currently learning Java 🍵
-- 👯 I’m looking to collaborate on FOSS projects
-- 💬 Ask me about Web dev related Stuff
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prplmanta@gmail.com)](mailto:prplmanta@gmail.com)
-- ⚡ Fun fact: I'm passionate about classic menswear 🎩
+Here's a quick snapshot of what I'm up to:
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
+- 🌱 Currently learning: Web Development 🌐
+- 👯 Looking to collaborate on: Open Source Projects (FOSS)
+- 💡 Interests: Clean Code | Software Design | Web Development
+- ⚡ Fun fact: I'm passionate about classic menswear and vintage fashion 🎩
 
-<a href="https://www.google.com/search?q=what+is+hypertext+markup+language+%28html%29" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://www.google.com/search?q=what+is+cascading+style+sheet+%28css%29" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-<a href="https://www.google.com/search?q=what+is+markdown+language" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
-<a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+## Skills 🛠️
 
-<h2> <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> Github Stats </h2>
+Here are the technologies I work with:
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,md,heroku,mongodb,py,mysql,java)](https://skillicons.dev)
+
+<!--## Projects 🚀
+
+Here are some of my notable projects:
+
+- **[Matilde New Tab](https://github.com/purplemanta6754/Matilde)**  
+  A customizable new tab page extension for browsers. Built with HTML, CSS, and JavaScript.
+
+- **[Salut](https://github.com/purplemanta6754/Salut)**  
+  A simple and customizable contact widget for websites. Built with React.
+-->
+## GitHub Stats 📊
+
+Here's a look at my GitHub activity:
+
+_Made with ❤️ using [OSS Insight](https://ossinsight.io/)_
+
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=94023073" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94023073&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -47,3 +51,11 @@
 </picture>
 
 <br/>
+
+## Contact Me 📫
+
+Let's connect! Here's how you can reach me:
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prplmanta@gmail.com)](mailto:prplmanta@gmail.com)
+
+---
