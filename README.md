@@ -1,6 +1,6 @@
-# Hello, Fellow Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Fellow Developers! <img src="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif" width="35px">
 
-I'm Gonzalo (but feel free to call me Zalo), a Computer Science student at Santo Tomás Institute in Santiago Centro, Chile. I'm passionate about imagining innovative solutions and contributing to the open-source community.
+I'm Gonzalo (but feel free to call me Zalo), a Computer Science student at Santo Tomás institute in Santiago Centro, Chile. I'm passionate about imagining innovative solutions and contributing to the open-source community.
 
 Here's a quick snapshot of what I'm up to:
 
