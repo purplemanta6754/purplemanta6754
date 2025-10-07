@@ -4,7 +4,7 @@ I'm Gonzalo (but feel free to call me Zalo), a Computer Science student at Santo
 
 Here's a quick snapshot of what I'm up to:
 
-- 🌱 Currently learning: Luau 🌙
+- 🌱 Currently learning: Android Development 🤳
 - 👯 Looking to collaborate on: Open Source Projects (FOSS)
 - 💡 Interests: Clean Code | Software Design | Web Development
 - ⚡ Fun fact: I'm passionate about classic menswear and vintage fashion 🎩
