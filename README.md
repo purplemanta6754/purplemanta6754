@@ -13,18 +13,8 @@ Here's a quick snapshot of what I'm up to:
 
 Here are the technologies I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,md,heroku,mongodb,py,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,heroku,html,java,js,md,mongodb,mysql,py,vscode)](https://skillicons.dev)
 
-<!--## Projects 🚀
-
-Here are some of my notable projects:
-
-- **[Matilde New Tab](https://github.com/purplemanta6754/Matilde)**  
-  A customizable new tab page extension for browsers. Built with HTML, CSS, and JavaScript.
-
-- **[Salut](https://github.com/purplemanta6754/Salut)**  
-  A simple and customizable contact widget for websites. Built with React.
--->
 ## GitHub Stats 📊
 
 Here's a look at my GitHub activity:
